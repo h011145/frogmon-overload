@@ -1,0 +1,19 @@
+{
+    "window": {
+        "width": 800,
+        "height": 450,
+        "fps": 60,
+        "title": "Yggdrasil Engine v1.0"
+    },
+    "player": {
+        "start_pos": [150, 150],
+        "speed": 3.0,
+        "mouse_sensitivity": 0.0015,
+        "fov": 1.047
+    },
+    "render": {
+        "ray_count": 200,
+        "max_depth": 800,
+        "wall_color": [150, 150, 150]
+    }
+}
